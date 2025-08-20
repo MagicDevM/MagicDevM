@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔮 Currently working on a few projects: Magix dashboard and Qualificator bot.<br>🔆 Working for EluminusCo Organization<br>⚒️ Currently learning Java(It's very hard trust me won't do this again)<br>😉 Ofc being lazy
+🔮 Currently working on a few projects: Hexion and Qualificator bot.<br>🔆 Working for EluminusCo Organization<br>⚒️ Currently learning Java(It's very hard trust me won't do this again)<br>😉 Ofc being lazy
 
 
 ## 🌐 Socials:
