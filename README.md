@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔮 Currently working on a few projects: Hexion and Nano bot.<br>🔆 Working for EluminusCo Organization<br>⚒️ Currently learning Java(It's very hard trust me won't do this again)<br>😉 Ofc being lazy
+🔮 Currently working on a few projects: Hexion and Nano bot.<br>🔆 Working for EluminusCo Organization<br>😆 Currently not open for hire!<br>⚒️ Currently learning Java(It's very hard trust me won't do this again)<br>😉 Ofc being lazy
 
 
 ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)]((https://discord.gg/zkGcUK9nkn))
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aaron-fernan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaronfernan78@gmail.com) 
 
 # 💻 Tech Stack:
