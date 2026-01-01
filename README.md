@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔮 Currently working on a few projects: Hexion and Nano bot.<br>🔆 Working for EluminusCo Organization<br>😆 Currently not open for hire!<br>⚒️ Currently learning Tailwind<br>😉 Ofc being lazy
+🔮 Currently working on a few projects: Hexion and Nano bot.<br>🔆 Working for EluminusCo Organization<br>😆 Currently not open for hire!<br>🎫 Contributing to [fixed-heliactyl-next](https://github.com/OvernodeProjets/fixed-heliactyl-next) project as of now<br>⚒️ Currently learning Tailwind<br>😉 Ofc being lazy
 
 
 ## 🌐 Socials:
