@@ -3,6 +3,8 @@
 
 
 ## 🌐 Socials:
+**Wanna contact me? for whatever reason, you can dm me in discord`magic__` or email me`i wont check most probably`**
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)]((https://discord.gg/zkGcUK9nkn))
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aaron-fernan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaronfernan78@gmail.com) 
 
